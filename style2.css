@@ -1,0 +1,7 @@
+@media screen and (max-width:768px ){
+   
+     .man .box{
+       margin: 1.2rem ;
+        width: 45%;
+    }
+}

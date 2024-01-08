@@ -1,0 +1,78 @@
+*{
+    margin: 0px ;
+    padding: 0px ;
+}
+.banner{
+    width: 100%;
+    padding: 1.2rem ;
+}
+.banner img{
+    width: 100%;
+}
+.section1{
+    width: 100%;
+}
+.section1 h1{
+    text-align: center;
+    font-size: 3rem;
+    padding: 1.3rem ;
+    font-weight: 400;
+}
+.section1 p{
+    text-align: center;
+    line-height: 1.5rem ;
+    font-size: 1.2rem ;
+    font-weight: 400;
+    padding: 3rem ;
+    color: #111111;
+}
+.man{
+    width: 100%;
+    display: flex;
+    padding-left: 2rem ;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.man .box{
+    border: 5px solid #f97c37;
+    width: 19%;
+    box-sizing: border-box;
+}
+.man .box h2{
+    text-align: center;
+    padding: 1.5rem ;
+    font-weight: 500;
+    width: 80%;
+}
+.man .box img{
+    padding-left: 5rem;
+    width: 30%;
+}
+.section1 p button{
+    background-color: white;
+    border: none;
+    font-size: 1rem ;
+}
+.fotter{
+    padding: 1.5rem ;
+    text-align: center;
+    width: 100%;
+    background-color: #333333;
+    color: white;
+}
+.fotter h2{
+    font-weight: 300;
+    font-size: 1rem ;
+    padding: 1.5rem ;
+
+}
+.fotter p{
+    padding: 3.5rem ;
+    font-size: 1.1rem ;
+    font-weight: 300;
+}
+.fotter p button{
+    background-color: #333333;
+    border: none;
+    color:#bbe6fe;
+}
